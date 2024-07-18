@@ -1,0 +1,42 @@
+cat
+кошка
+cat
+кот
+cat
+киса
+christmas tree
+ёлка
+dog
+собака
+dog
+пёс
+elephaunt
+слон
+hedgehog
+ёжик
+hello
+привет
+joke
+шутка
+mountain
+гора
+ocean
+океан
+phrase
+слово
+saying
+слово
+sea
+море
+the red square
+красная площадь
+tower
+башня
+whether
+погода
+word
+слово
+you
+ты
+your
+ты
